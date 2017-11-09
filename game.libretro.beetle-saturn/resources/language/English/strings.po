@@ -21,22 +21,42 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "CD Image Cache (restart)"
+msgid "Analog Deadzone (percent)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Initial scanline"
+msgid "Automatically set RTC on game load"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Initial scanline PAL"
+msgid "BIOS language"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Last scanline"
+msgid "CD Image Cache (restart)"
 msgstr ""
 
 msgctxt "#30005"
+msgid "Horizontal Overscan Mask"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Initial scanline"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Initial scanline PAL"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Last scanline"
+msgstr ""
+
+msgctxt "#30009"
 msgid "Last scanline PAL"
+msgstr ""
+
+msgctxt "#30010"
+msgid "System Region"
 msgstr ""
 
