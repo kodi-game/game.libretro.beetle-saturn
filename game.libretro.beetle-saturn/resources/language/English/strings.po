@@ -21,7 +21,7 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Analog Deadzone (percent)"
+msgid "Analog Stick Deadzone"
 msgstr ""
 
 msgctxt "#30002"
@@ -33,30 +33,58 @@ msgid "BIOS language"
 msgstr ""
 
 msgctxt "#30004"
-msgid "CD Image Cache (restart)"
+msgid "Cartridge"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Horizontal Overscan Mask"
+msgid "CD Image Cache (restart)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Initial scanline"
+msgid "Enable Horizontal Blend(blur)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Initial scanline PAL"
+msgid "Horizontal Overscan Mask"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Last scanline"
+msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Last scanline PAL"
+msgid "Initial scanline PAL"
 msgstr ""
 
 msgctxt "#30010"
+msgid "Last scanline"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Last scanline PAL"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Mouse Sensitivity"
+msgstr ""
+
+msgctxt "#30013"
+msgid "6Player Adaptor on Port 1"
+msgstr ""
+
+msgctxt "#30014"
+msgid "6Player Adaptor on Port 2"
+msgstr ""
+
+msgctxt "#30015"
 msgid "System Region"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Trigger Deadzone"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Gun Crosshair"
 msgstr ""
 
