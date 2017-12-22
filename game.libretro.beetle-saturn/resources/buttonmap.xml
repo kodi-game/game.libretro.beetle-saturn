@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-	<controller id="game.controller.saturn" type="RETRO_DEVICE_JOYPAD" class="0">
+	<controller id="game.controller.saturn" type="RETRO_DEVICE_JOYPAD" subclass="0">
 		<feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="c" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
@@ -15,7 +15,7 @@
 		<feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
 		<feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
 	</controller>
-	<controller id="game.controller.saturn.3d" type="RETRO_DEVICE_ANALOG" class="0">
+	<controller id="game.controller.saturn.3d" type="RETRO_DEVICE_ANALOG" subclass="0">
 		<feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="c" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
@@ -31,7 +31,7 @@
 		<feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
 		<feature name="analogstick" mapto="RETRO_DEVICE_INDEX_ANALOG_LEFT"/>
 	</controller>
-	<controller id="game.controller.saturn.arcade.racer" type="RETRO_DEVICE_ANALOG" class="1">
+	<controller id="game.controller.saturn.arcade.racer" type="RETRO_DEVICE_ANALOG" subclass="1">
 		<feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="c" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
@@ -43,7 +43,7 @@
 		<feature name="leftshift" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
 		<feature name="rightshift" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
 	</controller>
-	<controller id="game.controller.saturn.mission.stick" type="RETRO_DEVICE_ANALOG" class="2">
+	<controller id="game.controller.saturn.mission.stick" type="RETRO_DEVICE_ANALOG" subclass="2">
 		<feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="c" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
@@ -57,7 +57,7 @@
 		<feature name="throttle" mapto="RETRO_DEVICE_INDEX_ANALOG_RIGHT" axis="RETRO_DEVICE_ID_ANALOG_Y"/>
 		<feature name="throttlelatch" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
 	</controller>
-	<controller id="game.controller.saturn.mission.sticks" type="RETRO_DEVICE_ANALOG" class="3">
+	<controller id="game.controller.saturn.mission.sticks" type="RETRO_DEVICE_ANALOG" subclass="3">
 		<feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
 		<feature name="c" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
@@ -70,14 +70,14 @@
 		<feature name="leftjoystick" mapto="RETRO_DEVICE_INDEX_ANALOG_LEFT"/>
 		<feature name="rightjoystick" mapto="RETRO_DEVICE_INDEX_ANALOG_RIGHT"/>
 	</controller>
-	<controller id="game.controller.saturn.mouse" type="RETRO_DEVICE_MOUSE" class="0">
+	<controller id="game.controller.saturn.mouse" type="RETRO_DEVICE_MOUSE" subclass="0">
 		<feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
 		<feature name="right" mapto="RETRO_DEVICE_ID_MOUSE_RIGHT"/>
 		<feature name="middle" mapto="RETRO_DEVICE_ID_MOUSE_MIDDLE"/>
 		<feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
 		<feature name="pointer" mapto="RETRO_DEVICE_MOUSE"/>
 	</controller>
-	<controller id="game.controller.saturn.twin.stick" type="RETRO_DEVICE_ANALOG" class="4">
+	<controller id="game.controller.saturn.twin.stick" type="RETRO_DEVICE_ANALOG" subclass="4">
 		<feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
 		<feature name="leftstick" mapto="RETRO_DEVICE_INDEX_ANALOG_LEFT"/>
 		<feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
@@ -87,14 +87,14 @@
 		<feature name="rightbutton" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
 	</controller>
 	<!-- TODO: Asbolute lightgun coordinates -->
-	<controller id="game.controller.saturn.virtua.gun" model="japanese" type="RETRO_DEVICE_LIGHTGUN" class="0">
+	<controller id="game.controller.saturn.virtua.gun" model="japanese" type="RETRO_DEVICE_LIGHTGUN" subclass="0">
 		<feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
 		<feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
 		<feature name="reload" mapto="RETRO_DEVICE_ID_LIGHTGUN_RELOAD"/>
 		<feature name="offscreen" mapto="RETRO_DEVICE_ID_LIGHTGUN_OFFSCREEN"/>
 		<feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
 	</controller>
-	<controller id="game.controller.saturn.virtua.gun" model="us" type="RETRO_DEVICE_LIGHTGUN" class="1">
+	<controller id="game.controller.saturn.virtua.gun" model="us" type="RETRO_DEVICE_LIGHTGUN" subclass="1">
 		<feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
 		<feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
 		<feature name="reload" mapto="RETRO_DEVICE_ID_LIGHTGUN_RELOAD"/>
@@ -102,7 +102,7 @@
 		<feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
 	</controller>
 	<!-- TODO
-	<controller id="game.controller.saturn.virtua.gun" model="european" type="RETRO_DEVICE_LIGHTGUN" class="2">
+	<controller id="game.controller.saturn.virtua.gun" model="european" type="RETRO_DEVICE_LIGHTGUN" subclass="2">
 		<feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
 		<feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
 		<feature name="reload" mapto="RETRO_DEVICE_ID_LIGHTGUN_RELOAD"/>
