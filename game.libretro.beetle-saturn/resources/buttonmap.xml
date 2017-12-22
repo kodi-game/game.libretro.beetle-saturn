@@ -87,22 +87,14 @@
 		<feature name="rightbutton" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
 	</controller>
 	<!-- TODO: Asbolute lightgun coordinates -->
-	<controller id="game.controller.saturn.virtua.gun" model="japanese" type="RETRO_DEVICE_LIGHTGUN" subclass="0">
-		<feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
-		<feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
-		<feature name="reload" mapto="RETRO_DEVICE_ID_LIGHTGUN_RELOAD"/>
-		<feature name="offscreen" mapto="RETRO_DEVICE_ID_LIGHTGUN_OFFSCREEN"/>
-		<feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
-	</controller>
-	<controller id="game.controller.saturn.virtua.gun" model="us" type="RETRO_DEVICE_LIGHTGUN" subclass="1">
-		<feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
-		<feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
-		<feature name="reload" mapto="RETRO_DEVICE_ID_LIGHTGUN_RELOAD"/>
-		<feature name="offscreen" mapto="RETRO_DEVICE_ID_LIGHTGUN_OFFSCREEN"/>
-		<feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
-	</controller>
-	<!-- TODO
-	<controller id="game.controller.saturn.virtua.gun" model="european" type="RETRO_DEVICE_LIGHTGUN" subclass="2">
+	<controller id="game.controller.saturn.virtua.gun" type="RETRO_DEVICE_LIGHTGUN">
+		<models>
+			<model name="japanese" subclass="0"/>
+			<model name="us" subclass="1"/>
+			<!-- TODO
+			<model name="eu" subclass="2"/>
+			-->
+		</models>
 		<feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
 		<feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
 		<feature name="reload" mapto="RETRO_DEVICE_ID_LIGHTGUN_RELOAD"/>
