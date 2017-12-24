@@ -86,7 +86,7 @@
 		<feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
 		<feature name="rightbutton" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
 	</controller>
-	<!-- TODO: Asbolute lightgun coordinates -->
+	<!-- TODO: Absolute lightgun coordinates -->
 	<controller id="game.controller.saturn.virtua.gun" type="RETRO_DEVICE_LIGHTGUN">
 		<models>
 			<model name="japanese" subclass="0"/>
