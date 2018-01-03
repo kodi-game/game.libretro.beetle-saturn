@@ -101,5 +101,4 @@
 		<feature name="offscreen" mapto="RETRO_DEVICE_ID_LIGHTGUN_OFFSCREEN"/>
 		<feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
 	</controller>
-	-->
 </buttonmap>
