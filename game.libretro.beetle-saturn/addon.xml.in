@@ -9,15 +9,13 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>cue|ccd|chd</extensions>
+		<extensions>cue|ccd|chd|toc|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
-		<supports_keyboard>false</supports_keyboard>
-		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Sega - Saturn (Beetle Saturn) v0.9.48</summary>
-		<description>Supported files: .cue, .ccd, .chd</description>
+		<description>Supported files: .cue, .ccd, .chd, .toc, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
