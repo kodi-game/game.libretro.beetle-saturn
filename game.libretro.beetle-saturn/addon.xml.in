@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-saturn"
 		name="Sega - Saturn (Beetle Saturn)"
-		version="0.9.48.2"
+		version="1.21.2.3"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -14,7 +14,7 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Sega - Saturn (Beetle Saturn) v0.9.48</summary>
+		<summary lang="en_GB">Sega - Saturn (Beetle Saturn) v1.21.2</summary>
 		<description lang="en_GB">Supported files: .cue, .ccd, .chd, .toc, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
