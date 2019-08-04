@@ -37,7 +37,7 @@ msgid "Cartridge"
 msgstr ""
 
 msgctxt "#30005"
-msgid "CD Image Cache (restart)"
+msgid "CD Image Cache (Restart)"
 msgstr ""
 
 msgctxt "#30006"
@@ -53,7 +53,7 @@ msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Initial scanline PAL"
+msgid "Initial scanline (PAL)"
 msgstr ""
 
 msgctxt "#30010"
@@ -61,7 +61,7 @@ msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Last scanline PAL"
+msgid "Last scanline (PAL)"
 msgstr ""
 
 msgctxt "#30012"
@@ -90,4 +90,8 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Gun Crosshair"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Gun Input Mode"
 msgstr ""
