@@ -1,1 +1,1 @@
-beetle-saturn https://github.com/libretro/beetle-saturn-libretro/archive/3313cc6760c14cffa9226e0cfd41debc11df8bdd.zip
+beetle-saturn https://github.com/libretro/beetle-saturn-libretro/archive/8a65943bb7bbc3183eeb0d57c4ac3e663f1bcc11.zip
