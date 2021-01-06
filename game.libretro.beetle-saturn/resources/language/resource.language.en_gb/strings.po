@@ -85,13 +85,17 @@ msgid "System Region"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Trigger Deadzone"
+msgid "Save file mode"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Gun Crosshair"
+msgid "Trigger Deadzone"
 msgstr ""
 
 msgctxt "#30019"
+msgid "Gun Crosshair"
+msgstr ""
+
+msgctxt "#30020"
 msgid "Gun Input Mode"
 msgstr ""

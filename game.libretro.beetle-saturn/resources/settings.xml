@@ -17,8 +17,9 @@
 		<setting label="30014" type="select" id="beetle_saturn_multitap_port1" values="disabled|enabled" default="disabled"/>
 		<setting label="30015" type="select" id="beetle_saturn_multitap_port2" values="disabled|enabled" default="disabled"/>
 		<setting label="30016" type="select" id="beetle_saturn_region" values="Auto Detect|Japan|North America|Europe|South Korea|Asia (NTSC)|Asia (PAL)|Brazil|Latin America" default="Auto Detect"/>
-		<setting label="30017" type="select" id="beetle_saturn_trigger_deadzone" values="15%|0%|5%|10%|20%|25%|30%" default="15%"/>
-		<setting label="30018" type="select" id="beetle_saturn_virtuagun_crosshair" values="Cross|Dot|Off" default="Cross"/>
-		<setting label="30019" type="select" id="beetle_saturn_virtuagun_input" values="Lightgun|Touchscreen" default="Lightgun"/>
+		<setting label="30017" type="select" id="beetle_saturn_sharedmem" values="shared|per game" default="shared"/>
+		<setting label="30018" type="select" id="beetle_saturn_trigger_deadzone" values="15%|0%|5%|10%|20%|25%|30%" default="15%"/>
+		<setting label="30019" type="select" id="beetle_saturn_virtuagun_crosshair" values="Cross|Dot|Off" default="Cross"/>
+		<setting label="30020" type="select" id="beetle_saturn_virtuagun_input" values="Lightgun|Touchscreen" default="Lightgun"/>
 	</category>
 </settings>
