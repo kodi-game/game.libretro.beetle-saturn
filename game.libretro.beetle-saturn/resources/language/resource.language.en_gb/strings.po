@@ -85,7 +85,7 @@ msgid "System Region"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Save file mode"
+msgid "Shared Save Files (Restart)"
 msgstr ""
 
 msgctxt "#30018"
