@@ -85,17 +85,21 @@ msgid "System Region"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Shared Save Files (Restart)"
+msgid "Shared Backup Memory (Restart)"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Trigger Deadzone"
+msgid "Shared Internal Memory (Restart)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Gun Crosshair"
+msgid "Trigger Deadzone"
 msgstr ""
 
 msgctxt "#30020"
+msgid "Gun Crosshair"
+msgstr ""
+
+msgctxt "#30021"
 msgid "Gun Input Mode"
 msgstr ""
