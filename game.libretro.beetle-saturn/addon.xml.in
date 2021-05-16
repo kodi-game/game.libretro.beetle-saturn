@@ -15,7 +15,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Sega - Saturn (Beetle Saturn) v1.22.2</summary>
-		<description lang="en_GB">Supported files: .cue, .ccd, .chd, .toc, .m3u</description>
+		<description lang="en_GB">Beetle Saturn is a port of Mednafen Saturn to the libretro API.
+
+Supported files: .cue, .ccd, .chd, .toc, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.beetle-saturn</source>
