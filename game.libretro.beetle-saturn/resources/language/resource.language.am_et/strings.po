@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
+msgctxt "Addon Summary"
+msgid "Sega - Saturn (Beetle Saturn) v1.22.2"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Beetle Saturn is a port of Mednafen Saturn to the libretro API.
+
+Supported files: .cue, .ccd, .chd, .toc, .m3u"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

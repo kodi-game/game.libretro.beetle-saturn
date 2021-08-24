@@ -14,8 +14,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Sega - Saturn (Beetle Saturn) v1.22.2</summary>
-		<description lang="en_GB">Beetle Saturn is a port of Mednafen Saturn to the libretro API.
 
 Supported files: .cue, .ccd, .chd, .toc, .m3u</description>
 		<license>GPLv2</license>
@@ -24,5 +22,9 @@ Supported files: .cue, .ccd, .chd, .toc, .m3u</description>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="en_GB">Sega - Saturn (Beetle Saturn) v1.22.2</summary>
+		<description lang="en_GB">Beetle Saturn is a port of Mednafen Saturn to the libretro API.
+
+Supported files: .cue, .ccd, .chd, .toc, .m3u</description>
 	</extension>
 </addon>
