@@ -32,85 +32,85 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "System Region"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Cartridge"
-msgstr ""
-
-msgctxt "#30003"
-msgid "6Player Adaptor on Port 1"
-msgstr ""
-
-msgctxt "#30004"
-msgid "6Player Adaptor on Port 2"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Analog Stick Deadzone"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Trigger Deadzone"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Mouse Sensitivity"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Gun Crosshair"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Gun Input Mode"
-msgstr ""
-
-msgctxt "#30010"
-msgid "CD Image Cache (Restart)"
-msgstr ""
-
-msgctxt "#30011"
-msgid "Shared Internal Memory (Restart)"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Shared Backup Memory (Restart)"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Mid-frame Input Synchronization"
-msgstr ""
-
-msgctxt "#30014"
-msgid "Automatically set RTC on game load"
-msgstr ""
-
-msgctxt "#30015"
-msgid "BIOS language"
-msgstr ""
-
-msgctxt "#30016"
 msgid "Horizontal Overscan Mask"
 msgstr ""
 
-msgctxt "#30017"
+msgctxt "#30002"
 msgid "Initial scanline"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30003"
 msgid "Last scanline"
 msgstr ""
 
-msgctxt "#30019"
+msgctxt "#30004"
 msgid "Initial scanline (PAL)"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30005"
 msgid "Last scanline (PAL)"
 msgstr ""
 
-msgctxt "#30021"
+msgctxt "#30006"
 msgid "Enable Horizontal Blend(blur)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "6Player Adaptor on Port 1"
+msgstr ""
+
+msgctxt "#30008"
+msgid "6Player Adaptor on Port 2"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Analog Stick Deadzone"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Trigger Deadzone"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Mouse Sensitivity"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Gun Crosshair"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Gun Input Mode"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Cartridge"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Shared Internal Memory (Restart)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Shared Backup Memory (Restart)"
+msgstr ""
+
+msgctxt "#30017"
+msgid "System Region"
+msgstr ""
+
+msgctxt "#30018"
+msgid "BIOS language"
+msgstr ""
+
+msgctxt "#30019"
+msgid "CD Image Cache (Restart)"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Mid-frame Input Synchronization"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Automatically set RTC on game load"
 msgstr ""
