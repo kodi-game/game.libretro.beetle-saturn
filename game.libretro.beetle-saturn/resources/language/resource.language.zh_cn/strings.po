@@ -62,53 +62,57 @@ msgid "6Player Adaptor on Port 2"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Analog Stick Deadzone"
+msgid "Allow Up+Down and Left+Right"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Trigger Deadzone"
+msgid "Analog Stick Deadzone"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Mouse Sensitivity"
+msgid "Trigger Deadzone"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Gun Crosshair"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Gun Input Mode"
+msgid "Gun Crosshair"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Cartridge"
+msgid "Gun Input Mode"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Shared Internal Memory (Restart)"
+msgid "Cartridge"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Shared Backup Memory (Restart)"
+msgid "Shared Internal Memory (Restart)"
 msgstr ""
 
 msgctxt "#30017"
-msgid "System Region"
+msgid "Shared Backup Memory (Restart)"
 msgstr ""
 
 msgctxt "#30018"
-msgid "BIOS language"
+msgid "System Region"
 msgstr ""
 
 msgctxt "#30019"
-msgid "CD Image Cache (Restart)"
+msgid "BIOS language"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Mid-frame Input Synchronization"
+msgid "CD Image Cache (Restart)"
 msgstr ""
 
 msgctxt "#30021"
+msgid "Mid-frame Input Synchronization"
+msgstr ""
+
+msgctxt "#30022"
 msgid "Automatically set RTC on game load"
 msgstr ""
