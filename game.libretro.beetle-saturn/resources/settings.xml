@@ -9,18 +9,19 @@
 		<setting label="30006" type="select" id="beetle_saturn_horizontal_blend" values="disabled|enabled" default="disabled"/>
 		<setting label="30007" type="select" id="beetle_saturn_multitap_port1" values="disabled|enabled" default="disabled"/>
 		<setting label="30008" type="select" id="beetle_saturn_multitap_port2" values="disabled|enabled" default="disabled"/>
-		<setting label="30009" type="select" id="beetle_saturn_analog_stick_deadzone" values="15%|0%|5%|10%|20%|25%|30%" default="15%"/>
-		<setting label="30010" type="select" id="beetle_saturn_trigger_deadzone" values="15%|0%|5%|10%|20%|25%|30%" default="15%"/>
-		<setting label="30011" type="select" id="beetle_saturn_mouse_sensitivity" values="100%|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|105%|110%|115%|120%|125%|130%|135%|140%|145%|150%|155%|160%|165%|170%|175%|180%|185%|190%|195%|200%" default="100%"/>
-		<setting label="30012" type="select" id="beetle_saturn_virtuagun_crosshair" values="Cross|Dot|Off" default="Cross"/>
-		<setting label="30013" type="select" id="beetle_saturn_virtuagun_input" values="Lightgun|Touchscreen" default="Lightgun"/>
-		<setting label="30014" type="select" id="beetle_saturn_cart" values="Auto Detect|None|Backup Memory|Extended RAM (1MB)|Extended RAM (4MB)|The King of Fighters &#39;95|Ultraman: Hikari no Kyojin Densetsu" default="Auto Detect"/>
-		<setting label="30015" type="select" id="beetle_saturn_shared_int" values="disabled|enabled" default="disabled"/>
-		<setting label="30016" type="select" id="beetle_saturn_shared_ext" values="disabled|enabled" default="disabled"/>
-		<setting label="30017" type="select" id="beetle_saturn_region" values="Auto Detect|Japan|North America|Europe|South Korea|Asia (NTSC)|Asia (PAL)|Brazil|Latin America" default="Auto Detect"/>
-		<setting label="30018" type="select" id="beetle_saturn_autortc_lang" values="english|german|french|spanish|italian|japanese" default="english"/>
-		<setting label="30019" type="select" id="beetle_saturn_cdimagecache" values="disabled|enabled" default="disabled"/>
-		<setting label="30020" type="select" id="beetle_saturn_midsync" values="disabled|enabled" default="disabled"/>
-		<setting label="30021" type="select" id="beetle_saturn_autortc" values="enabled|disabled" default="enabled"/>
+		<setting label="30009" type="select" id="beetle_saturn_opposite_directions" values="disabled|enabled" default="disabled"/>
+		<setting label="30010" type="select" id="beetle_saturn_analog_stick_deadzone" values="15%|0%|5%|10%|20%|25%|30%" default="15%"/>
+		<setting label="30011" type="select" id="beetle_saturn_trigger_deadzone" values="15%|0%|5%|10%|20%|25%|30%" default="15%"/>
+		<setting label="30012" type="select" id="beetle_saturn_mouse_sensitivity" values="100%|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|105%|110%|115%|120%|125%|130%|135%|140%|145%|150%|155%|160%|165%|170%|175%|180%|185%|190%|195%|200%" default="100%"/>
+		<setting label="30013" type="select" id="beetle_saturn_virtuagun_crosshair" values="Cross|Dot|Off" default="Cross"/>
+		<setting label="30014" type="select" id="beetle_saturn_virtuagun_input" values="Lightgun|Touchscreen" default="Lightgun"/>
+		<setting label="30015" type="select" id="beetle_saturn_cart" values="Auto Detect|None|Backup Memory|Extended RAM (1MB)|Extended RAM (4MB)|The King of Fighters &#39;95|Ultraman: Hikari no Kyojin Densetsu" default="Auto Detect"/>
+		<setting label="30016" type="select" id="beetle_saturn_shared_int" values="disabled|enabled" default="disabled"/>
+		<setting label="30017" type="select" id="beetle_saturn_shared_ext" values="disabled|enabled" default="disabled"/>
+		<setting label="30018" type="select" id="beetle_saturn_region" values="Auto Detect|Japan|North America|Europe|South Korea|Asia (NTSC)|Asia (PAL)|Brazil|Latin America" default="Auto Detect"/>
+		<setting label="30019" type="select" id="beetle_saturn_autortc_lang" values="english|german|french|spanish|italian|japanese" default="english"/>
+		<setting label="30020" type="select" id="beetle_saturn_cdimagecache" values="disabled|enabled" default="disabled"/>
+		<setting label="30021" type="select" id="beetle_saturn_midsync" values="disabled|enabled" default="disabled"/>
+		<setting label="30022" type="select" id="beetle_saturn_autortc" values="enabled|disabled" default="enabled"/>
 	</category>
 </settings>
