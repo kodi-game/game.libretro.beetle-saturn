@@ -23,5 +23,6 @@
 		</assets>
 		<summary lang="en_GB">Sega - Saturn (Beetle Saturn) v1.22.2</summary>
 		<description lang="en_GB">Beetle Saturn is a port of Mednafen Saturn to the libretro API.</description>
+		<description lang="zh_CN">Beetle Saturn 是 Mednafen Saturn 到 libretro API 的一个移植。</description>
 	</extension>
 </addon>
