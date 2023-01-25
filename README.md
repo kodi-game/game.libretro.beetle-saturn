@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.beetle-saturn/resources/icon.png)
+![Sega - Saturn (Beetle Saturn) icon](game.libretro.beetle-saturn/resources/icon.png)
 
 ### Fanart
 
