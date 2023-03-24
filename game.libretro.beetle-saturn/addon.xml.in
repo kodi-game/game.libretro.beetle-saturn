@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-saturn"
 		name="Sega - Saturn (Beetle Saturn)"
-		version="1.29.0.34"
+		version="1.29.0.35"
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -21,7 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<summary lang="en_GB">Sega - Saturn (Beetle Saturn) v1.22.2</summary>
+		<summary lang="en_GB">Sega - Saturn (Beetle Saturn)</summary>
 		<description lang="da_DK">Beetle Saturn er en port af Mednafen Saturn til libretro API.</description>
 		<description lang="de_DE">Beetle Saturn ist eine Portierung von Mednafen Saturn auf die libretro API.</description>
 		<description lang="en_GB">Beetle Saturn is a port of Mednafen Saturn to the libretro API.</description>
