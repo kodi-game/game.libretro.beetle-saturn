@@ -33,26 +33,6 @@ msgctxt "#30001"
 msgid "Horizontal Overscan Mask"
 msgstr "水平过扫描掩模"
 
-msgctxt "#30002"
-msgid "Initial scanline"
-msgstr "初始扫描线"
-
-msgctxt "#30003"
-msgid "Last scanline"
-msgstr "最末扫描线"
-
-msgctxt "#30004"
-msgid "Initial scanline (PAL)"
-msgstr "初始扫描线（PAL）"
-
-msgctxt "#30005"
-msgid "Last scanline (PAL)"
-msgstr "最末扫描线（PAL）"
-
-msgctxt "#30006"
-msgid "Enable Horizontal Blend(blur)"
-msgstr "启用水平混合（模糊）"
-
 msgctxt "#30007"
 msgid "6Player Adaptor on Port 1"
 msgstr "6玩家适配器在端口1"
@@ -60,10 +40,6 @@ msgstr "6玩家适配器在端口1"
 msgctxt "#30008"
 msgid "6Player Adaptor on Port 2"
 msgstr "6玩家适配器在端口2"
-
-msgctxt "#30009"
-msgid "Allow Up+Down and Left+Right"
-msgstr "允许 上+下 和 左+右"
 
 msgctxt "#30010"
 msgid "Analog Stick Deadzone"
@@ -101,18 +77,86 @@ msgctxt "#30018"
 msgid "System Region"
 msgstr "系统区域"
 
-msgctxt "#30019"
-msgid "BIOS language"
-msgstr "BIOS 语言"
-
-msgctxt "#30020"
-msgid "CD Image Cache (Restart)"
-msgstr "CD 映像缓存（重新启动）"
-
 msgctxt "#30021"
 msgid "Mid-frame Input Synchronization"
 msgstr "中间帧输入同步"
 
-msgctxt "#30022"
-msgid "Automatically set RTC on game load"
-msgstr "在游戏加载时自动设置 RTC"
+msgctxt "#30023"
+msgid "Initial Scanline"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Last Scanline"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Initial Scanline (PAL)"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Last Scanline (PAL)"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Enable Horizontal Blend"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Allow Opposite Directions"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30031"
+msgid "BIOS Language"
+msgstr ""
+
+msgctxt "#30032"
+msgid "CD Image Cache"
+msgstr ""
+
+msgctxt "#30033"
+msgid "RTC Automatic Set"
+msgstr ""
+
+#~ msgctxt "#30002"
+#~ msgid "Initial scanline"
+#~ msgstr "初始扫描线"
+
+#~ msgctxt "#30003"
+#~ msgid "Last scanline"
+#~ msgstr "最末扫描线"
+
+#~ msgctxt "#30004"
+#~ msgid "Initial scanline (PAL)"
+#~ msgstr "初始扫描线（PAL）"
+
+#~ msgctxt "#30005"
+#~ msgid "Last scanline (PAL)"
+#~ msgstr "最末扫描线（PAL）"
+
+#~ msgctxt "#30006"
+#~ msgid "Enable Horizontal Blend(blur)"
+#~ msgstr "启用水平混合（模糊）"
+
+#~ msgctxt "#30009"
+#~ msgid "Allow Up+Down and Left+Right"
+#~ msgstr "允许 上+下 和 左+右"
+
+#~ msgctxt "#30019"
+#~ msgid "BIOS language"
+#~ msgstr "BIOS 语言"
+
+#~ msgctxt "#30020"
+#~ msgid "CD Image Cache (Restart)"
+#~ msgstr "CD 映像缓存（重新启动）"
+
+#~ msgctxt "#30022"
+#~ msgid "Automatically set RTC on game load"
+#~ msgstr "在游戏加载时自动设置 RTC"

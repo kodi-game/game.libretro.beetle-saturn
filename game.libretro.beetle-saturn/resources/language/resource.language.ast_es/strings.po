@@ -33,36 +33,12 @@ msgctxt "#30001"
 msgid "Horizontal Overscan Mask"
 msgstr ""
 
-msgctxt "#30002"
-msgid "Initial scanline"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Last scanline"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Initial scanline (PAL)"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Last scanline (PAL)"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Enable Horizontal Blend(blur)"
-msgstr ""
-
 msgctxt "#30007"
 msgid "6Player Adaptor on Port 1"
 msgstr ""
 
 msgctxt "#30008"
 msgid "6Player Adaptor on Port 2"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Allow Up+Down and Left+Right"
 msgstr ""
 
 msgctxt "#30010"
@@ -101,18 +77,54 @@ msgctxt "#30018"
 msgid "System Region"
 msgstr "Rexón del sistema"
 
-msgctxt "#30019"
-msgid "BIOS language"
-msgstr "Llingua de la BIOS"
-
-msgctxt "#30020"
-msgid "CD Image Cache (Restart)"
-msgstr ""
-
 msgctxt "#30021"
 msgid "Mid-frame Input Synchronization"
 msgstr ""
 
-msgctxt "#30022"
-msgid "Automatically set RTC on game load"
+msgctxt "#30023"
+msgid "Initial Scanline"
 msgstr ""
+
+msgctxt "#30024"
+msgid "Last Scanline"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Initial Scanline (PAL)"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Last Scanline (PAL)"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Enable Horizontal Blend"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Allow Opposite Directions"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30031"
+msgid "BIOS Language"
+msgstr ""
+
+msgctxt "#30032"
+msgid "CD Image Cache"
+msgstr ""
+
+msgctxt "#30033"
+msgid "RTC Automatic Set"
+msgstr ""
+
+#~ msgctxt "#30019"
+#~ msgid "BIOS language"
+#~ msgstr "Llingua de la BIOS"
