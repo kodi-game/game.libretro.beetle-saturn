@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "Beetle Saturn is a port of Mednafen Saturn to the libretro API."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Horizontal Overscan Mask"
 msgstr ""

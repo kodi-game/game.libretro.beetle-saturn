@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle Saturn is a port of Mednafen Saturn to the libretro API."
 msgstr "Beetle Saturn è un porting di Mednafen Saturn per l'API libretro."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Horizontal Overscan Mask"
 msgstr "Maschera overscan orizzontale"
@@ -124,6 +120,10 @@ msgstr "Cache immagine CD"
 msgctxt "#30033"
 msgid "RTC Automatic Set"
 msgstr "Impostazione automatica RTC"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
 
 #~ msgctxt "#30002"
 #~ msgid "Initial scanline"

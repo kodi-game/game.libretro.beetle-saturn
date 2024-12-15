@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle Saturn is a port of Mednafen Saturn to the libretro API."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Asetukset"
-
 msgctxt "#30001"
 msgid "Horizontal Overscan Mask"
 msgstr "Vaakasuuntainen yliskannauksen maski"
@@ -124,6 +120,10 @@ msgstr ""
 msgctxt "#30033"
 msgid "RTC Automatic Set"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Asetukset"
 
 #~ msgctxt "#30006"
 #~ msgid "Enable Horizontal Blend(blur)"
