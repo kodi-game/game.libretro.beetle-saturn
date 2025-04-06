@@ -25,12 +25,14 @@
 		<summary lang="en_GB">Sega - Saturn (Beetle Saturn)</summary>
 		<summary lang="es_ES">Sega - Saturn (Beetle Saturn)</summary>
 		<summary lang="it_IT">Sega - Saturn (Beetle Saturn)</summary>
+		<summary lang="sv_SE">Sega - Saturn (Beetle Saturn)</summary>
 		<summary lang="zh_CN">世嘉 - Saturn (Beetle Saturn)</summary>
 		<description lang="da_DK">Beetle Saturn er en port af Mednafen Saturn til libretro API.</description>
 		<description lang="de_DE">Beetle Saturn ist eine Portierung von Mednafen Saturn auf die libretro API.</description>
 		<description lang="en_GB">Beetle Saturn is a port of Mednafen Saturn to the libretro API.</description>
 		<description lang="es_ES">Beetle Saturn es una adaptación de Mednafen Saturn a la API libretro.</description>
 		<description lang="it_IT">Beetle Saturn è un porting di Mednafen Saturn per l&apos;API libretro.</description>
+		<description lang="sv_SE">Beetle Saturn är en portning av Mednafen Saturn till libretro API.</description>
 		<description lang="zh_CN">Beetle Saturn 是 Mednafen Saturn 到 libretro API 的一个移植。</description>
 	</extension>
 </addon>
