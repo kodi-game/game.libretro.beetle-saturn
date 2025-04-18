@@ -121,6 +121,10 @@ msgctxt "#30033"
 msgid "RTC Automatic Set"
 msgstr "Impostazione automatica RTC"
 
+msgctxt "#30034"
+msgid "Deinterlace Method"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Impostazioni"

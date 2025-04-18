@@ -120,3 +120,7 @@ msgstr ""
 msgctxt "#30033"
 msgid "RTC Automatic Set"
 msgstr ""
+
+msgctxt "#30034"
+msgid "Deinterlace Method"
+msgstr ""
