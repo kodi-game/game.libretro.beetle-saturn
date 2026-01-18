@@ -61,14 +61,6 @@ msgctxt "#30015"
 msgid "Cartridge"
 msgstr "弹夹"
 
-msgctxt "#30016"
-msgid "Shared Internal Memory (Restart)"
-msgstr "共享内部内存（重新启动）"
-
-msgctxt "#30017"
-msgid "Shared Backup Memory (Restart)"
-msgstr "共享备份内存（重新启动）"
-
 msgctxt "#30018"
 msgid "System Region"
 msgstr "系统区域"
@@ -92,10 +84,6 @@ msgstr "初始扫描线 (PAL)"
 msgctxt "#30026"
 msgid "Last Scanline (PAL)"
 msgstr "最末扫描线（PAL）"
-
-msgctxt "#30027"
-msgid "Enable Horizontal Blend"
-msgstr "启用水平模糊"
 
 msgctxt "#30028"
 msgid "Allow Opposite Directions"
@@ -124,6 +112,30 @@ msgstr "实时时钟自动设置"
 msgctxt "#30034"
 msgid "Deinterlace Method"
 msgstr "去隔行扫描法"
+
+msgctxt "#30035"
+msgid "Horizontal Blend"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Shared Internal Memory"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Shared Backup Memory"
+msgstr ""
+
+#~ msgctxt "#30016"
+#~ msgid "Shared Internal Memory (Restart)"
+#~ msgstr "共享内部内存（重新启动）"
+
+#~ msgctxt "#30017"
+#~ msgid "Shared Backup Memory (Restart)"
+#~ msgstr "共享备份内存（重新启动）"
+
+#~ msgctxt "#30027"
+#~ msgid "Enable Horizontal Blend"
+#~ msgstr "启用水平模糊"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

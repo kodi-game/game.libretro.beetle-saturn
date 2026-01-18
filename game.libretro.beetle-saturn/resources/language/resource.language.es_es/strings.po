@@ -61,14 +61,6 @@ msgctxt "#30015"
 msgid "Cartridge"
 msgstr "Cartucho"
 
-msgctxt "#30016"
-msgid "Shared Internal Memory (Restart)"
-msgstr "Memoria Interna Compartida (Reiniciar)"
-
-msgctxt "#30017"
-msgid "Shared Backup Memory (Restart)"
-msgstr "Memoria Backup Compartida (Reiniciar)"
-
 msgctxt "#30018"
 msgid "System Region"
 msgstr "Región del Sistema"
@@ -92,10 +84,6 @@ msgstr "Primera Línea de Exploración (PAL)"
 msgctxt "#30026"
 msgid "Last Scanline (PAL)"
 msgstr "Última Línea de Exploración (PAL)"
-
-msgctxt "#30027"
-msgid "Enable Horizontal Blend"
-msgstr "Activar Mezcla Horizontal"
 
 msgctxt "#30028"
 msgid "Allow Opposite Directions"
@@ -124,6 +112,30 @@ msgstr "Ajuste Automático RTC"
 msgctxt "#30034"
 msgid "Deinterlace Method"
 msgstr "Método de Desentrelazado"
+
+msgctxt "#30035"
+msgid "Horizontal Blend"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Shared Internal Memory"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Shared Backup Memory"
+msgstr ""
+
+#~ msgctxt "#30016"
+#~ msgid "Shared Internal Memory (Restart)"
+#~ msgstr "Memoria Interna Compartida (Reiniciar)"
+
+#~ msgctxt "#30017"
+#~ msgid "Shared Backup Memory (Restart)"
+#~ msgstr "Memoria Backup Compartida (Reiniciar)"
+
+#~ msgctxt "#30027"
+#~ msgid "Enable Horizontal Blend"
+#~ msgstr "Activar Mezcla Horizontal"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

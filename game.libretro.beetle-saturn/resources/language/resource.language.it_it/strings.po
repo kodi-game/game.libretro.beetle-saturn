@@ -61,14 +61,6 @@ msgctxt "#30015"
 msgid "Cartridge"
 msgstr "Cartuccia"
 
-msgctxt "#30016"
-msgid "Shared Internal Memory (Restart)"
-msgstr "Memoria interna condivisa (riavvio)"
-
-msgctxt "#30017"
-msgid "Shared Backup Memory (Restart)"
-msgstr "Memoria di backup condivisa (riavvio)"
-
 msgctxt "#30018"
 msgid "System Region"
 msgstr "Regione del sistema"
@@ -92,10 +84,6 @@ msgstr "Linea di scansione iniziale (PAL)"
 msgctxt "#30026"
 msgid "Last Scanline (PAL)"
 msgstr "Ultima linea di scansione (PAL)"
-
-msgctxt "#30027"
-msgid "Enable Horizontal Blend"
-msgstr "Abilita fusione orizzontale"
 
 msgctxt "#30028"
 msgid "Allow Opposite Directions"
@@ -124,6 +112,30 @@ msgstr "Impostazione automatica RTC"
 msgctxt "#30034"
 msgid "Deinterlace Method"
 msgstr "Metodo di deinterlacciamento"
+
+msgctxt "#30035"
+msgid "Horizontal Blend"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Shared Internal Memory"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Shared Backup Memory"
+msgstr ""
+
+#~ msgctxt "#30016"
+#~ msgid "Shared Internal Memory (Restart)"
+#~ msgstr "Memoria interna condivisa (riavvio)"
+
+#~ msgctxt "#30017"
+#~ msgid "Shared Backup Memory (Restart)"
+#~ msgstr "Memoria di backup condivisa (riavvio)"
+
+#~ msgctxt "#30027"
+#~ msgid "Enable Horizontal Blend"
+#~ msgstr "Abilita fusione orizzontale"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

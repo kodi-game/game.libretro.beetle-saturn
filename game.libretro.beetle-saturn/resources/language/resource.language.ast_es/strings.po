@@ -61,14 +61,6 @@ msgctxt "#30015"
 msgid "Cartridge"
 msgstr "Cartuchu"
 
-msgctxt "#30016"
-msgid "Shared Internal Memory (Restart)"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Shared Backup Memory (Restart)"
-msgstr ""
-
 msgctxt "#30018"
 msgid "System Region"
 msgstr "Rexón del sistema"
@@ -91,10 +83,6 @@ msgstr ""
 
 msgctxt "#30026"
 msgid "Last Scanline (PAL)"
-msgstr ""
-
-msgctxt "#30027"
-msgid "Enable Horizontal Blend"
 msgstr ""
 
 msgctxt "#30028"
@@ -123,6 +111,18 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Deinterlace Method"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Horizontal Blend"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Shared Internal Memory"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Shared Backup Memory"
 msgstr ""
 
 #~ msgctxt "#30000"

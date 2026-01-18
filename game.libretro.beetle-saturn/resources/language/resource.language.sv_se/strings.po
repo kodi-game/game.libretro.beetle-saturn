@@ -61,14 +61,6 @@ msgctxt "#30015"
 msgid "Cartridge"
 msgstr "Kassett"
 
-msgctxt "#30016"
-msgid "Shared Internal Memory (Restart)"
-msgstr "Delat internt minne (omstart)"
-
-msgctxt "#30017"
-msgid "Shared Backup Memory (Restart)"
-msgstr "Delat backupminne (omstart)"
-
 msgctxt "#30018"
 msgid "System Region"
 msgstr "Systemregion"
@@ -92,10 +84,6 @@ msgstr "Initial skanlinje (PAL)"
 msgctxt "#30026"
 msgid "Last Scanline (PAL)"
 msgstr "Sista skanlinje (PAL)"
-
-msgctxt "#30027"
-msgid "Enable Horizontal Blend"
-msgstr "Aktivera horisontell blandning"
 
 msgctxt "#30028"
 msgid "Allow Opposite Directions"
@@ -124,6 +112,30 @@ msgstr "Ställ in RTC automatiskt"
 msgctxt "#30034"
 msgid "Deinterlace Method"
 msgstr "Metod för deinterlace"
+
+msgctxt "#30035"
+msgid "Horizontal Blend"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Shared Internal Memory"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Shared Backup Memory"
+msgstr ""
+
+#~ msgctxt "#30016"
+#~ msgid "Shared Internal Memory (Restart)"
+#~ msgstr "Delat internt minne (omstart)"
+
+#~ msgctxt "#30017"
+#~ msgid "Shared Backup Memory (Restart)"
+#~ msgstr "Delat backupminne (omstart)"
+
+#~ msgctxt "#30027"
+#~ msgid "Enable Horizontal Blend"
+#~ msgstr "Aktivera horisontell blandning"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
