@@ -125,6 +125,14 @@ msgctxt "#30037"
 msgid "Shared Backup Memory"
 msgstr ""
 
+msgctxt "#30038"
+msgid "Improved Mesh Transparencies"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Save Method"
+msgstr ""
+
 #~ msgctxt "#30016"
 #~ msgid "Shared Internal Memory (Restart)"
 #~ msgstr "Delat internt minne (omstart)"

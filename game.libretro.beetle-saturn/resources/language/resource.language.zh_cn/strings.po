@@ -125,6 +125,14 @@ msgctxt "#30037"
 msgid "Shared Backup Memory"
 msgstr "共享备用内存"
 
+msgctxt "#30038"
+msgid "Improved Mesh Transparencies"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Save Method"
+msgstr ""
+
 #~ msgctxt "#30016"
 #~ msgid "Shared Internal Memory (Restart)"
 #~ msgstr "共享内部内存（重新启动）"

@@ -124,3 +124,11 @@ msgstr ""
 msgctxt "#30037"
 msgid "Shared Backup Memory"
 msgstr ""
+
+msgctxt "#30038"
+msgid "Improved Mesh Transparencies"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Save Method"
+msgstr ""
