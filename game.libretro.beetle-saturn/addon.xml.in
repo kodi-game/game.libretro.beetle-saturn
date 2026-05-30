@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-saturn"
 		name="Sega - Saturn (Beetle Saturn)"
-		version="1.29.0.57"
+		version="1.32.1.58"
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,10 +9,10 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>cue|ccd|chd|toc|m3u</extensions>
+		<extensions>cue|ccd|chd|toc|m3u|zip</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
-		<supports_disc_control>true</supports_disc_control>
+		<supports_disc_control>false</supports_disc_control>
 		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">

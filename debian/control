@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-beetle-saturn (>= 1.29.0) | beetle-saturn (>= 1.29.0)
+               libretro-beetle-saturn (>= 1.32.1) | beetle-saturn (>= 1.32.1)
 Standards-Version: 3.9.8
 Section: libs
 
