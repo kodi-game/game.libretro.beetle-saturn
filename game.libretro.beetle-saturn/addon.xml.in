@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="cs_CZ">Sega - Saturn (Beetle Saturn)</summary>
 		<summary lang="da_DK">Sega - Saturn (Beetle Saturn)</summary>
 		<summary lang="en_GB">Sega - Saturn (Beetle Saturn)</summary>
 		<summary lang="es_ES">Sega - Saturn (Beetle Saturn)</summary>
@@ -30,6 +31,7 @@
 		<summary lang="ru_RU">Sega — Saturn (Beetle Saturn)</summary>
 		<summary lang="sv_SE">Sega - Saturn (Beetle Saturn)</summary>
 		<summary lang="zh_CN">世嘉 - Saturn (Beetle Saturn)</summary>
+		<description lang="cs_CZ">Beetle Saturn je port Mednafen Saturn do API libretro.</description>
 		<description lang="da_DK">Beetle Saturn er en port af Mednafen Saturn til libretro API.</description>
 		<description lang="de_DE">Beetle Saturn ist eine Portierung von Mednafen Saturn auf die libretro API.</description>
 		<description lang="en_GB">Beetle Saturn is a port of Mednafen Saturn to the libretro API.</description>
