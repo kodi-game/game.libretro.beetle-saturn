@@ -133,6 +133,10 @@ msgctxt "#30039"
 msgid "Save Method"
 msgstr "存档方式"
 
+msgctxt "#30040"
+msgid "Video CD Card (MPEG Card)"
+msgstr ""
+
 #~ msgctxt "#30016"
 #~ msgid "Shared Internal Memory (Restart)"
 #~ msgstr "共享内部内存（重新启动）"
