@@ -137,6 +137,266 @@ msgctxt "#30040"
 msgid "Video CD Card (MPEG Card)"
 msgstr ""
 
+msgctxt "#30041"
+msgid "System"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Configure system options."
+msgstr ""
+
+msgctxt "#30043"
+msgid "Choose which region the system is from."
+msgstr ""
+
+msgctxt "#30044"
+msgid "Also affects language used in some games (e.g. the European release of 'Panzer Dragoon')."
+msgstr ""
+
+msgctxt "#30045"
+msgid "English"
+msgstr ""
+
+msgctxt "#30046"
+msgid "German"
+msgstr ""
+
+msgctxt "#30047"
+msgid "French"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Emulate the Saturn Video CD Card, a Japan/Europe-only expansion adding hardware MPEG-1 decoding. Requires the card firmware (mpeg_card.bin) in the system directory. Restart required."
+msgstr ""
+
+msgctxt "#30052"
+msgid "Automatically set the SMPC's emulated Real-Time Clock to the host system's current time and date upon game load."
+msgstr ""
+
+msgctxt "#30053"
+msgid "Load the complete image in memory at startup. Restart required."
+msgstr ""
+
+msgctxt "#30054"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Configure aspect ratio / display cropping / video filter / frame skipping parameters."
+msgstr ""
+
+msgctxt "#30056"
+msgid "Adjust the first displayed scanline in NTSC mode."
+msgstr ""
+
+msgctxt "#30057"
+msgid "8 (Default)"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Adjust the last displayed scanline in NTSC mode."
+msgstr ""
+
+msgctxt "#30059"
+msgid "231 (Default)"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Adjust the first displayed scanline in PAL mode."
+msgstr ""
+
+msgctxt "#30061"
+msgid "16 (Default)"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Adjust the last displayed scanline in PAL mode."
+msgstr ""
+
+msgctxt "#30063"
+msgid "271 (Default)"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Reduce horizontal width."
+msgstr ""
+
+msgctxt "#30065"
+msgid "disabled"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Enable horizontal blend filter. Has a more noticeable effect with higher horizontal resolution modes (640/704)."
+msgstr ""
+
+msgctxt "#30067"
+msgid "How to combine the two fields of an interlaced signal. 'Weave' shows both the current and previous field together on every frame for full vertical resolution, with combing visible on moving content. 'Bob' shows only the current field, halved in height -- no comb, but half the vertical resolution. 'Bob (Offset)' shows only the current field doubled into full surface height with a one-line offset between fields; preserves the libretro output resolution while giving Bob-style smooth motion. 'FastMAD (Motion Adaptive)' does per-pixel motion detection between the current frame and two frames ago, weaving where the picture is still and interpolating where motion was detected; much higher CPU cost than the other modes but eliminates combing on motion while preserving full resolution where the picture is still. 'Progressive' renders both interlaced fields during the same emulated frame, writing field 0 to even rows and field 1 to odd rows for full-height output. 'Off' has the VDP2 renderer fill both rows of every (even,odd) pair every emulated frame with current-frame content; full resolution, no comb on motion, but doubles the per-frame surface write work compared to the other modes."
+msgstr ""
+
+msgctxt "#30068"
+msgid "Weave"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Bob"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Bob (Offset)"
+msgstr ""
+
+msgctxt "#30071"
+msgid "FastMAD (Motion Adaptive)"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Progressive"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Off"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Replace VDP1's hardware-accurate (x ^ y) & 1 stipple, used by mesh-bit primitives, with a 50% blend against the final composited surface. The stipple looks like a visible checker on a flat panel (it relied on CRT phosphor blur). Improves the look of smoke, shadows, water, and fade effects in many games. CPU port of Kronos's GL-side improved mesh: mesh-bit pixels are routed to a parallel side-buffer instead of the main framebuffer, then VDP2 composites the side-buffer over the final surface in a late blend pass. 16-bit framebuffer only -- 8-bit paletted mode keeps the stipple regardless. Known limitation: a few games (e.g. Grandia) can show mesh residue for a frame or two during scene transitions where the game suppresses the VDP1 sprite layer through a path the side-buffer doesn't observe; toggle the option off if this is bothersome."
+msgstr ""
+
+msgctxt "#30075"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Configure lightgun / mouse / NegCon input."
+msgstr ""
+
+msgctxt "#30077"
+msgid "Enable multitap on Saturn port 1."
+msgstr ""
+
+msgctxt "#30078"
+msgid "Enable multitap on Saturn port 2."
+msgstr ""
+
+msgctxt "#30079"
+msgid "Allow pressing up and down or left and right directions at the same time. This may cause glitches."
+msgstr ""
+
+msgctxt "#30080"
+msgid "Mid-frame synchronization can reduce input latency, but it will increase CPU requirements. Disable this when using netplay, run-ahead, or movie recording, where it is incompatible with frame-exact replay."
+msgstr ""
+
+msgctxt "#30081"
+msgid "Inner deadzone applied to the '3D Control Pad' device type's analog stick, in addition to any front-end deadzone already configured in RetroArch's input settings.  Leave at 0% if you want the front-end deadzone to be authoritative; raise this if you want a stricter centre dead-region than RetroArch alone provides.  The two deadzones compound: setting 15% here on top of 15% in RetroArch results in roughly 28% combined dead-region."
+msgstr ""
+
+msgctxt "#30082"
+msgid "Inner deadzone applied to the '3D Control Pad' device type's analog triggers, in addition to any front-end deadzone already configured in RetroArch's input settings.  Leave at 0% if you want the front-end deadzone to be authoritative; raise this if you want a stricter pull threshold before triggers begin to register.  The two deadzones compound."
+msgstr ""
+
+msgctxt "#30083"
+msgid "Configure the sensitivity of the 'Mouse' device type."
+msgstr ""
+
+msgctxt "#30084"
+msgid "Choose the lightgun input mode."
+msgstr ""
+
+msgctxt "#30085"
+msgid "Choose the crosshair for the 'Stunner' and 'Virtua Gun' device types."
+msgstr ""
+
+msgctxt "#30086"
+msgid "Choose the light gun crosshair color for port 1."
+msgstr ""
+
+msgctxt "#30087"
+msgid "Red"
+msgstr ""
+
+msgctxt "#30088"
+msgid "Blue"
+msgstr ""
+
+msgctxt "#30089"
+msgid "Green"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Orange"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Cyan"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Pink"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Purple"
+msgstr ""
+
+msgctxt "#30095"
+msgid "Black"
+msgstr ""
+
+msgctxt "#30096"
+msgid "White"
+msgstr ""
+
+msgctxt "#30097"
+msgid "Choose the light gun crosshair color for port 2."
+msgstr ""
+
+msgctxt "#30098"
+msgid "Cartridge / Memory Card"
+msgstr ""
+
+msgctxt "#30099"
+msgid "This lets you modify settings related to the Saturn cartridge and the virtual Memory Card(s) used by the system."
+msgstr ""
+
+msgctxt "#30100"
+msgid "Certain games require an external cartridge to run (ROM Cart, 1M RAM Cart, 4M RAM Cart)."
+msgstr ""
+
+msgctxt "#30101"
+msgid "Enable shared internal memory. Restart required."
+msgstr ""
+
+msgctxt "#30102"
+msgid "Enable shared backup memory. Restart required."
+msgstr ""
+
+msgctxt "#30103"
+msgid "Format used to persist internal Backup RAM. 'Libretro' (.srm, default) hands save management to the frontend, enabling cloud sync, save-protect and similar. 'Mednafen' (.bkr) is the core's own format and matches saves written by previous versions - select it to use an existing .bkr file, or rename <game>.bkr to <game>.srm once to migrate that save to the Libretro format. The two formats are mutually exclusive. Restart required."
+msgstr ""
+
+msgctxt "#30104"
+msgid "Libretro"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Mednafen"
+msgstr ""
+
 #~ msgctxt "#30016"
 #~ msgid "Shared Internal Memory (Restart)"
 #~ msgstr "Gemeinsamer interner Speicher (Neustart erforderlich)"
