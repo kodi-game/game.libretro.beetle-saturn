@@ -98,7 +98,7 @@
 		<feature name="trigger" mapto="RETRO_DEVICE_ID_LIGHTGUN_TRIGGER"/>
 		<feature name="start" mapto="RETRO_DEVICE_ID_LIGHTGUN_START"/>
 		<feature name="reload" mapto="RETRO_DEVICE_ID_LIGHTGUN_RELOAD"/>
-		<feature name="offscreen" mapto="RETRO_DEVICE_ID_LIGHTGUN_OFFSCREEN"/>
+		<feature name="offscreen" mapto="RETRO_DEVICE_ID_LIGHTGUN_IS_OFFSCREEN"/>
 		<feature name="crosshair" mapto="RETRO_DEVICE_LIGHTGUN"/>
 	</controller>
 	-->
