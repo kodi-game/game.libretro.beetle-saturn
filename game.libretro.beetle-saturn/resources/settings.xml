@@ -69,6 +69,64 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
+				<setting id="beetle_saturn_jit_scu" type="string" label="30252" help="30253">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="beetle_saturn_cpucache_emumode" type="string" label="30254" help="30255">
+					<level>0</level>
+					<default>auto</default>
+					<constraints>
+						<options>
+							<option label="30256">auto</option>
+							<option label="30257">data</option>
+							<option label="30258">full</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="beetle_saturn_sh2_interleave" type="string" label="30259" help="30260">
+					<level>0</level>
+					<default>exact</default>
+					<constraints>
+						<options>
+							<option label="30261">exact</option>
+							<option label="30262">4</option>
+							<option label="30263">8</option>
+							<option label="30264">16</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="beetle_saturn_sh2_jit" type="string" label="30265" help="30266">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="beetle_saturn_jit_scsp" type="string" label="30267" help="30268">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
 			</group>
 		</category>
 		<category id="video" label="30054" help="30055">
