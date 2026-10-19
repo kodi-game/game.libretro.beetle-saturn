@@ -981,6 +981,74 @@ msgctxt "#30251"
 msgid "Ultraman: Hikari no Kyojin Densetsu"
 msgstr ""
 
+msgctxt "#30252"
+msgid "SCU DSP JIT Binary Translator (Restart)"
+msgstr ""
+
+msgctxt "#30253"
+msgid "Use the native JIT binary translator for the SCU DSP. Available on x86, x86-64 and Linux/Android aarch64 builds; elsewhere the interpreter is always used. Restart required."
+msgstr ""
+
+msgctxt "#30254"
+msgid "CPU Cache Emulation (Restart)"
+msgstr ""
+
+msgctxt "#30255"
+msgid "Which SH-2 cache emulation mode to use. 'Auto' takes it from the per-game database: 'Data only' for most titles, 'Full' (instruction cache emulated, slower) for the games known to need it and for all ST-V games. Override only to test; 'Data only' on a game that needs 'Full' can glitch or hang. Restart required."
+msgstr ""
+
+msgctxt "#30256"
+msgid "Auto (per-game database)"
+msgstr ""
+
+msgctxt "#30257"
+msgid "Data only"
+msgstr ""
+
+msgctxt "#30258"
+msgid "Full"
+msgstr ""
+
+msgctxt "#30259"
+msgid "SH-2 CPU Sync Mode (Restart)"
+msgstr ""
+
+msgctxt "#30260"
+msgid "How closely the two SH-2 CPUs are kept in step. 'Exact' alternates them every instruction and reproduces the previous behaviour byte for byte. The 'Fast' modes let the master run a few cycles ahead of the slave before the slave catches up, which avoids alternating the two CPUs' working sets every instruction, and schedule idle DMA controllers by event instead of polling. Each CPU still executes its full instruction count (within 1-2%), so games run at true speed; measured gain about 15% on Daytona USA and Virtua Fighter 2. Larger windows were removed: they starve the slave and only appear faster. Use Exact if a game hangs, desyncs, has audio problems or renders incorrectly in a Fast mode. Restart required."
+msgstr ""
+
+msgctxt "#30261"
+msgid "Exact (Accurate)"
+msgstr ""
+
+msgctxt "#30262"
+msgid "Fast (4 cycles)"
+msgstr ""
+
+msgctxt "#30263"
+msgid "Fast (8 cycles, recommended)"
+msgstr ""
+
+msgctxt "#30264"
+msgid "Fast (16 cycles)"
+msgstr ""
+
+msgctxt "#30265"
+msgid "SH-2 Instruction JIT (Experimental, Restart)"
+msgstr ""
+
+msgctxt "#30266"
+msgid "Run the master SH-2's ordinary instructions through natively compiled per-instruction handlers, keeping the interpreter's exact timing. Only with CPU cache emulation off ('Data only'), x86/x86-64 only. Restart required."
+msgstr ""
+
+msgctxt "#30267"
+msgid "SCSP DSP JIT Binary Translator (Restart)"
+msgstr ""
+
+msgctxt "#30268"
+msgid "Use the native JIT binary translator for the SCSP DSP (MPROG). Available on x86, x86-64 and Linux/Android aarch64 builds; elsewhere the interpreter is always used. Restart required."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Axustes"
