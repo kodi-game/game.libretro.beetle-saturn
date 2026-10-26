@@ -644,6 +644,17 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
+				<setting id="beetle_saturn_backup_memory_size" type="string" label="30269" help="30270">
+					<level>0</level>
+					<default>Default</default>
+					<constraints>
+						<options>
+							<option label="30271">Default</option>
+							<option label="30272">4MB</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
 				<setting id="beetle_saturn_shared_int" type="string" label="30036" help="30101">
 					<level>0</level>
 					<default>disabled</default>
