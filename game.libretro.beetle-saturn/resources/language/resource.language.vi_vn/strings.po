@@ -1048,3 +1048,19 @@ msgstr ""
 msgctxt "#30268"
 msgid "Use the native JIT binary translator for the SCSP DSP (MPROG). Available on x86, x86-64 and Linux/Android aarch64 builds; elsewhere the interpreter is always used. Restart required."
 msgstr ""
+
+msgctxt "#30269"
+msgid "Backup Memory Size"
+msgstr ""
+
+msgctxt "#30270"
+msgid "Capacity of the external Backup Memory cartridge, used when Cartridge is Backup Memory or Auto Detect picks it. The 4 MB cart saves to its own .4mb.bcr file, and save states do not carry cart contents between the two sizes. Restart required."
+msgstr ""
+
+msgctxt "#30271"
+msgid "512 KB (4 Mbit)"
+msgstr ""
+
+msgctxt "#30272"
+msgid "4 MB (32 Mbit)"
+msgstr ""
