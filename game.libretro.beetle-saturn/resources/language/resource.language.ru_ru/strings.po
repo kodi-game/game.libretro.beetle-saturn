@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.beetle-saturn\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-05 12:47i\n"
-"PO-Revision-Date: 2026-10-21 08:02+0000\n"
+"PO-Revision-Date: 2026-10-27 08:23+0000\n"
 "Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-beetle-saturn/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -1051,19 +1051,19 @@ msgstr "Использовать нативный бинарный трансл�
 
 msgctxt "#30269"
 msgid "Backup Memory Size"
-msgstr ""
+msgstr "Размер Backup Memory"
 
 msgctxt "#30270"
 msgid "Capacity of the external Backup Memory cartridge, used when Cartridge is Backup Memory or Auto Detect picks it. The 4 MB cart saves to its own .4mb.bcr file, and save states do not carry cart contents between the two sizes. Restart required."
-msgstr ""
+msgstr "Ёмкость внешнего картриджа Backup Memory, используемая, когда параметр Cartridge имеет значение Backup Memory или Auto Detect выбирает его. Картридж на 4 MB сохраняется в собственный файл .4mb.bcr, а состояния сохранения не переносят содержимое картриджа между двумя размерами. Требуется перезапуск."
 
 msgctxt "#30271"
 msgid "512 KB (4 Mbit)"
-msgstr ""
+msgstr "512 KB (4 Mbit)"
 
 msgctxt "#30272"
 msgid "4 MB (32 Mbit)"
-msgstr ""
+msgstr "4 MB (32 Mbit)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
