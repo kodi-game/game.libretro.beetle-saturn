@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.beetle-saturn\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-05 12:47i\n"
-"PO-Revision-Date: 2026-10-21 08:02+0000\n"
+"PO-Revision-Date: 2026-10-27 20:52+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-beetle-saturn/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -243,7 +243,7 @@ msgstr "Povolit filtr horizontálního prolnutí. Výrazněji se projeví v rež
 
 msgctxt "#30067"
 msgid "How to combine the two fields of an interlaced signal. 'Weave' shows both the current and previous field together on every frame for full vertical resolution, with combing visible on moving content. 'Bob' shows only the current field, halved in height -- no comb, but half the vertical resolution. 'Bob (Offset)' shows only the current field doubled into full surface height with a one-line offset between fields; preserves the libretro output resolution while giving Bob-style smooth motion. 'FastMAD (Motion Adaptive)' does per-pixel motion detection between the current frame and two frames ago, weaving where the picture is still and interpolating where motion was detected; much higher CPU cost than the other modes but eliminates combing on motion while preserving full resolution where the picture is still. 'Progressive' renders both interlaced fields during the same emulated frame, writing field 0 to even rows and field 1 to odd rows for full-height output. 'Off' has the VDP2 renderer fill both rows of every (even,odd) pair every emulated frame with current-frame content; full resolution, no comb on motion, but doubles the per-frame surface write work compared to the other modes."
-msgstr "Nahradí hardwarově přesný vzor (x ^ y) & 1 VDP1 používaný primitivy s bitem mřížky 50% prolnutím s výslednou složenou plochou. Vzor na plochém panelu vypadá jako viditelná šachovnice (spoléhal na rozmazání luminoforu CRT). V mnoha hrách zlepšuje vzhled kouře, stínů, vody a efektů prolínání. Port CPU zlepšené mřížky Kronosu na straně GL: pixely s bitem mřížky se směrují do paralelního pomocného bufferu místo hlavního framebufferu a VDP2 pak pomocný buffer v pozdní fázi prolnutí složí přes výslednou plochu. Pouze 16bitový framebuffer – 8bitový paletový režim vzor zachová bez ohledu na toto nastavení. Známé omezení: několik her (např. Grandia) může při přechodech scén zobrazovat jeden nebo dva snímky zbytku mřížky, když hra potlačí vrstvu spritů VDP1 cestou, kterou pomocný buffer nesleduje; pokud vám to vadí, volbu vypněte."
+msgstr "Způsob spojení dvou půlsnímků prokládaného signálu. Režim „Prokládání“ zobrazuje v každém snímku společně aktuální i předchozí půlsnímek, čímž zachovává plné svislé rozlišení; u pohybujícího se obsahu jsou viditelné hřebenové artefakty. Režim „Bob“ zobrazuje pouze aktuální půlsnímek s poloviční výškou – bez hřebenových artefaktů, ale s polovičním svislým rozlišením. Režim „Bob (posun)“ zobrazuje pouze aktuální půlsnímek zdvojený na plnou výšku plochy s posunem o jeden řádek mezi půlsnímky; zachovává výstupní rozlišení libretro a poskytuje plynulý pohyb jako režim Bob. Režim „FastMAD (adaptivní podle pohybu)“ detekuje pohyb po jednotlivých pixelech mezi aktuálním snímkem a snímkem o dva snímky starším; v nehybných částech obrazu používá prokládání a tam, kde byl detekován pohyb, interpolaci. Oproti ostatním režimům výrazně více zatěžuje CPU, ale při pohybu odstraňuje hřebenové artefakty a v nehybných částech obrazu zachovává plné rozlišení. Režim „Progresivní“ vykresluje oba prokládané půlsnímky během téhož emulovaného snímku: půlsnímek 0 zapisuje do sudých řádků a půlsnímek 1 do lichých řádků, čímž vytváří výstup v plné výšce. V režimu „Vypnuto“ vykreslovač VDP2 v každém emulovaném snímku vyplní oba řádky každé dvojice (sudý, lichý) obsahem aktuálního snímku; výsledkem je plné rozlišení bez hřebenových artefaktů při pohybu, ale oproti ostatním režimům se zdvojnásobuje objem zápisů do plochy na snímek."
 
 msgctxt "#30068"
 msgid "Weave"
@@ -1051,16 +1051,16 @@ msgstr "Používat nativní binární překladač JIT pro DSP SCSP (MPROG). Dost
 
 msgctxt "#30269"
 msgid "Backup Memory Size"
-msgstr ""
+msgstr "Velikost záložní paměti"
 
 msgctxt "#30270"
 msgid "Capacity of the external Backup Memory cartridge, used when Cartridge is Backup Memory or Auto Detect picks it. The 4 MB cart saves to its own .4mb.bcr file, and save states do not carry cart contents between the two sizes. Restart required."
-msgstr ""
+msgstr "Kapacita externí cartridge se záložní pamětí, která se používá, když je volba „Cartridge“ nastavena na „Záložní paměť“ nebo když ji vybere volba „Automaticky rozpoznat“. Obsah cartridge o kapacitě 4 MB se ukládá do samostatného souboru .4mb.bcr a uložené stavy nepřenášejí obsah cartridge mezi oběma velikostmi. Vyžaduje restart."
 
 msgctxt "#30271"
 msgid "512 KB (4 Mbit)"
-msgstr ""
+msgstr "512 KB (4 Mbit)"
 
 msgctxt "#30272"
 msgid "4 MB (32 Mbit)"
-msgstr ""
+msgstr "4 MB (32 Mbit)"
