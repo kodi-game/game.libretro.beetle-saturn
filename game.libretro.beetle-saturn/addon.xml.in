@@ -5,6 +5,14 @@
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
+		<import addon="game.controller.saturn" version="1.0.0"/>
+		<import addon="game.controller.saturn.3d.japan" version="1.0.0"/>
+		<import addon="game.controller.saturn.3d.western" version="1.0.0"/>
+		<import addon="game.controller.saturn.arcade.racer" version="1.0.0"/>
+		<import addon="game.controller.saturn.mission.stick" version="1.0.0"/>
+		<import addon="game.controller.saturn.mission.sticks" version="1.0.0"/>
+		<import addon="game.controller.saturn.mouse" version="1.0.0"/>
+		<import addon="game.controller.saturn.twin.stick" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
